@@ -1,2 +1,0 @@
-# WhiteWolf-Modify
-Script
