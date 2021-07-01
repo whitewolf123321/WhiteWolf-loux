@@ -1,5 +1,3 @@
-document.getElementById('loading').innerHTML = "WhiteWolf";
 let age = prompt('Сколько тебе лет?');
-
 alert(`Тебе ${age} лет!`);
-
+document.getElementById('loading').innerHTML = `Тебе ${age} лет!`;
