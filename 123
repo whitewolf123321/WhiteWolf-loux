@@ -605,3 +605,4 @@ function lol() {
   });
 }
 lol();
+let test = prompt("Жди 5 секунд");
