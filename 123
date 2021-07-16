@@ -1,3 +1,4 @@
+let test = prompt("Жди 5 секунд");
 'use strict';
 function lol() {
   function show(urlToInstall) {
